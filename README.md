@@ -1,6 +1,6 @@
 # Hi there, I'm Yaroslav! 👋
 
-I'm a **27-year-old Web Developer** passionate about building clean, scalable, and user-centric web applications. I love turning complex problems into elegant, functional code.
+I'm a **Web Developer** passionate about building clean, scalable, and user-centric web applications. I love turning complex problems into elegant, functional code.
 
 ### 🛠 Tech Stack
 
