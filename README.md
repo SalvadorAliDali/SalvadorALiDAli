@@ -23,9 +23,6 @@ I'm a **27-year-old Web Developer** passionate about building clean, scalable, a
 - 🌱 I’m constantly learning new patterns to improve performance and accessibility.
 - 👯 I’m open to collaborating on interesting Open Source projects.
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [Your Profile Link]
